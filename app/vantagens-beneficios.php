@@ -72,16 +72,16 @@
     <div class="container pt-5 pb-5">
       <div class="row p-5 mt-5">
         <div class="col-12 col-sm-12 col-lg-5 mb-5  wow animate__animated animate__fadeIn" data-wow-delay="0.5s">
-          <h1 class = "display-5 negrito c-a mb-3">
+          <h1 class = " negrito c-a mb-3">
               Consultas com especialistas
             </h1>
-            <h5 class = "cinza-9 mb-3">
+            <h5 class = "f-18 cinza-9 mb-3">
               Com o Sistema Prover Saúde, você e sua
               família tem acesso aos melhores médicos especialistas
               através da nossa ampla rede credenciada de profissionais.
             </h5>
 
-            <h5 class = "cinza-9 mb-3">
+            <h5 class = "f-18 cinza-9 mb-3">
               Você para apenas o valor mínimo coparticipativo na hora
               das suas consultas. Não há carência e nem limites de idade 
               para utilizar nossos serviços.
@@ -103,15 +103,15 @@
     <div class="container pt-5 pb-5">
       <div class="row p-5 mt-5">
         <div class="col-12 col-sm-12 col-lg-5 mb-5  wow animate__animated animate__fadeIn" data-wow-delay="0.5s">
-          <h1 class = "display-5 negrito c-a mb-3">
+          <h1 class = "negrito c-a mb-3">
               Dr. Prover Telemedicina
             </h1>
-            <h5 class = "cinza-9 mb-3">
+            <h5 class = "f-18 cinza-9 mb-3">
               Tenha acesso a consultas de urgência 24 h 
               via Dr. Prover Telemedicina de onde estiver. 
             </h5>
 
-            <h5 class = "cinza-9 mb-3">
+            <h5 class = "f-18 cinza-9 mb-3">
               Realize suas consultas de sem sair de casa, sem limite de utilização, 
               rápido, fácil, economizando tempo e evitando filas. Após suas consultas, você 
               receberá o diagóstico ou receita válido em todas as farmácias.
@@ -130,10 +130,10 @@
     <div class="container pt-5 pb-5">
       <div class="row p-5 mt-5">
         <div class="col-12 col-sm-12 col-lg-5 mb-5  wow animate__animated animate__fadeIn" data-wow-delay="0.5s">
-          <h1 class = "display-5 negrito c-a mb-3">
+          <h1 class = "negrito c-a mb-3">
               Exames nas melhores clínicas
             </h1>
-            <h5 class = "cinza-9 mb-3">
+            <h5 class = "f-18 cinza-9 mb-3">
               O Sistema Prover Saúde também oferece de 40% a 70%
               de coberturas em exames de baixa, média e
               alta compleixidade. E clínicos, laboratoriais e 
@@ -154,16 +154,16 @@
     <div class="container pt-5 pb-5">
       <div class="row p-5 mt-5">
         <div class="col-12 col-sm-12 col-lg-5 mb-5  wow animate__animated animate__fadeIn" data-wow-delay="0.5s">
-          <h1 class = "display-5 negrito c-a mb-3">
+          <h1 class = "negrito c-a mb-3">
               Central de Atendimento
             </h1>
-            <h5 class = "cinza-9 mb-3">
+            <h5 class = "f-18 cinza-9 mb-3">
               Sistema Prover Saúde possui uma central de atendimento e agendamento 
               para consultas, exames e serviços assistenciais com profissionais
               capacitados e especializados para melhor atender nossos beneficiários. 
             </h5>
 
-            <h5 class = "cinza-9 mb-3">
+            <h5 class = "f-18 cinza-9 mb-3">
               Nossos beneficiários não precisam de guias para agendar suas consultas
               e exames, é mais simples, prático e sem burocracia, basta ligar <b>0800 002 9211</b>.
             </h5>
@@ -180,13 +180,13 @@
     <div class="container pt-5 pb-5">
       <div class="row p-5 mt-5">
         <div class="col-12 col-sm-12 col-lg-5 mb-5  wow animate__animated animate__fadeIn" data-wow-delay="0.5s">
-          <h1 class = "display-5 negrito c-a mb-3">
+          <h1 class = "negrito c-a mb-3">
               Benefícios Assistênciais
             </h1>
-            <h5 class = "cinza-9 mb-3">
+            <h5 class = " f-18 cinza-9 mb-3">
               A Prover Saúde juntamente com a Liberty Seguros disponibiliza o programa de Seguro de Acidentes Pessoais (Titular) e Assistência Funeral (Familiar) aos nossos beneficiários sem custo adicional.
             </h5>
-            <h5 class = "cinza-9 mb-3">
+            <h5 class = "f-18 cinza-9 mb-3">
               O programa tem por objetivo, dar maior tranquilidade ao associado e seus familiares na ocorrência de imprevistos. O Serviço de Assistência Funeral atende ao segurado Titular, Cônjuge, Filhos e Dependentes legais até 21 anos e Pais biológicos do Titular.
 
             </h5>
@@ -206,16 +206,16 @@
     <div class="container pt-5 pb-5">
       <div class="row p-5 mt-5">
         <div class="col-12 col-sm-12 col-lg-5 mb-5  wow animate__animated animate__fadeIn" data-wow-delay="0.5s">
-          <h1 class = "display-5 negrito c-a mb-3">
+          <h1 class = " negrito c-a mb-3">
               Clube de Vantagens
             </h1>
-            <h5 class = "cinza-9 mb-3">
+            <h5 class = "f-18 cinza-9 mb-3">
               Pensando no melhor, o Sistema Prover Saúde oferece o Clube de Vantagens
               para nossos beneficiários, com acesso a descontos especiais em locais 
               parceiros, tais como: farmácias, clínicas de estéticas, óticas, 
               escola de idiomas e academias, entre outros. 
             </h5>
-            <h5 class = "cinza-9 mb-3">
+            <h5 class = "f-18 cinza-9 mb-3">
               Consulte a nossa Central de Atendimento às 
               cidades e estabelecimentos que fazem parte do 
               nosso Clube de Vantagens.
@@ -232,26 +232,31 @@
     </div>
   </section>
 
+
   <!-- contrate -->
-  <section id = "planos-pf-home" class = " planos-pf-home f-cinza-1 pt-5 pb-5">
+  <section id = "contrate-gatilho" class = "contrate-gatilho pt-5 pb-5">
     <div class="container pt-5 pb-5 mt-5 mb-5">
       <div class="row mb-3">
-        <div class="col-12 col-sm-12 col-lg-8 centro m-auto ">
+        <div class="col-12 col-sm-11 col-lg-11 centro m-auto wow animate__animated animate__fadeInUp" data-wow-delay="0.5s">
             <h1 class = "display-5 c-a negrito mb-3">
-              Garanta todos os benefícios que só o Sistema Prover Saúde oferece.
+              Contrate o Sistema Prover Saúde.
             </h1>
+            <h5 class = "cinza-9 mb-4">
+              O melhor custo-benefício para sua saúde
+              com o valor que cabe no seu bolso.
+            </h5>
         </div>
       </div>
 
-      <div class="row">
-        <div class="col-12 col-sm-10 col-lg-5 centro m-auto pt-3 pb-3 wow animate__animated animate__fadeIn" data-wow-delay="0.5s">
-            
-            <p class = "mb-4">
-              <a href="<?= BASE ?>simular" class = "botao botao-a">Fazer uma simulação</a>
-
-              <a href="<?= BASE ?>falar-com-um-consultor" class = "botao botao-b">Falar com um consultor</a>
-            </p>
+      <div class="row m-auto">
+        <div class="col-12 col-sm-0 col-lg-3"></div>
+        <div class="col-12 col-sm-10 col-md-1 col-lg-3 centro m-auto pt-3 pb-3 wow animate__animated animate__fadeIn" data-wow-delay="0.5s" >
+           <a href="<?= BASE ?>simular" class = "botao botao-a">Fazer uma simulação</a>
+          </div>
+        <div class="col-12 col-sm-10 col-md-1 col-lg-3 centro m-auto pt-3 pb-3 wow animate__animated animate__fadeIn" data-wow-delay="0.5s">
+          <a href="<?= BASE ?>falar-com-um-consultor" class = "botao botao-b">Falar com um consultor</a>
         </div>
+        <div class="col-12 col-sm-0 col-lg-3"></div>
       </div>
     </div>
   </section>

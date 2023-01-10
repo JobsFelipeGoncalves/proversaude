@@ -50,9 +50,17 @@
 
 		'/planos/classico?(?P<ads>\S+)' => 'mod-classico.php',
 		'planos/classico' => 'mod-classico.php',
+		'/modalidade/classico?(?P<ads>\S+)' => 'mod-classico.php',
+		'modalidade/classico' => 'mod-classico.php',
+		'/classico?(?P<ads>\S+)' => 'mod-classico.php',
+		'classico' => 'mod-classico.php',
 
 		'/planos/quality?(?P<ads>\S+)' => 'mod-quality.php',
 		'planos/quality' => 'mod-quality.php',
+		'/modalidade/quality?(?P<ads>\S+)' => 'mod-quality.php',
+		'modalidade/quality' => 'mod-quality.php',
+		'/quality?(?P<ads>\S+)' => 'mod-quality.php',
+		'quality' => 'mod-quality.php',
 
 		//beneficios
 		'/vantagens-e-beneficios?(?P<ads>\S+)' => 'vantagens-beneficios.php',

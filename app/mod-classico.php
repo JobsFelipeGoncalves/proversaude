@@ -3,26 +3,26 @@
 <html lang="pt-br">
 <head>
 
-  <title>Consultas médicas por apenas R$ 60 - Modalidade Quality | Sistema Prover Saúde</title>
+  <title>Consultas médicas, exames e serviços assistenciais- Modalidade Clássico | Sistema Prover Saúde</title>
   <meta charset="UTF-8">
   <meta name="viewport"              content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-  <meta name="description"           content="Consultas médicas em todas as especialidades por apenas R$ 60,00. Saiba mais no 0800 002 9211"/>
+  <meta name="description"           content="Consultas médicas e hospitalar, exames com de 30% a 50% de cobertura e serviços assistenciais"/>
   <meta name="keywords"              content="prover, prover sáude, sistema de saúde, saúde, beneficios, vantagens, assistencia à saúde, assistência completa, convênio, convênio de saúde, plano de saúde, planos, plano familiar, plano individual, Telemedicina, assistencia pós-vida, seguro de vida, funeral, coberturas, exames, consultas, especialialistas médicas, ivinhema, campo grande, aquidauana, nova andradina, navirai, bonito, ponta porã, dourados, index, MS, mato grosso do sul"/>
   <meta name="robots"                content="index, follow" />
 
   <meta property="og:locale"       content="pt_BR">
   <meta property="og:site_name"    content="Sistema Prover Saúde">
-  <meta property="og:url"          content="<?= BASE ?>quality" />
+  <meta property="og:url"          content="<?= BASE ?>classico" />
   <meta property="og:type"         content="website" />
-  <meta property="og:title"        content="Consultas médicas por apenas R$ 60 - Modalidade Quality | Sistema Prover Saúde" />
-  <meta property="og:description"  content="Consultas médicas em todas as especialidades por apenas R$ 60,00. Saiba mais no 0800 002 9211" />
+  <meta property="og:title"        content="Consultas médicas, exames e serviços assistenciais- Modalidade Clássico | Sistema Prover Saúde" />
+  <meta property="og:description"  content="Consultas médicas e hospitalar, exames com de 30% a 50% de cobertura e serviços assistenciais" />
   <meta property="og:image"        content="<?= BASE_IMG ?>marcas/sistema_prover_saude.png" />
   <meta name="author"              content="Marketing Grupo Prover / dev: Felipe Gonçalves - jobs.felipegoncalves@gmail.com"/>
 
 
-  <link rel="canonical" href="<?= BASE ?>quality">
+  <link rel="canonical" href="<?= BASE ?>classico">
 
   <link rel="icon" href="<?= BASE_IMG ?>marcas/logo_icon.png">
   <link rel="stylesheet" href="<?= BASE_CSS ?>bootstrap.min.css">
@@ -38,7 +38,7 @@
 
 
 </head>
-<body class = "f-branco mod_quality">
+<body class = "f-branco mod_classico">
   <?php require "components/header.php"; ?>
 
   <!-- apresentacao -->
@@ -176,7 +176,7 @@
       <div class="container pt-5 pb-5">
         <div class="row p-5 mt-5">
           <div class="col-12 col-sm-12 col-lg-5 mb-5  wow animate__animated animate__fadeIn" data-wow-delay="0.5s">
-            <h1 class = "negrito c-b mb-3">
+            <h1 class = "negrito c-a mb-3">
                 Consultas por apenas R$ 60,00 reais.
             </h1>
               <h5 class = "cinza-9 mb-3">
@@ -205,7 +205,7 @@
 
           
           <div class="col-12 col-sm-12 col-lg-5 mb-5  wow animate__animated animate__fadeIn" data-wow-delay="0.5s">
-            <h1 class = "negrito c-b mb-3">
+            <h1 class = "negrito c-a mb-3">
                 Exames de até 50% de cobertura
               </h1>
               <h5 class = "cinza-9 mb-3">
@@ -297,7 +297,7 @@
     <div class="container pt-5 pb-5 mt-5 mb-5">
       <div class="row">
         <div class="col-12 col-sm-11 col-lg-9 centro m-auto wow animate__animated animate__fadeInUp" data-wow-delay="0.5s">
-            <h1 class = "display-5 c-b negrito mb-3">
+            <h1 class = "display-5 c-a negrito mb-3">
               Contrate o Sistema Prover Saúde para você e sua família.
             </h1>
             <h5 class = "cinza-9 mb-4">
@@ -335,7 +335,7 @@
 
       <div class="row mt-3">
         <div class="col-12 col-sm-12 col-lg-6 f-14 m-auto centro">
-          *Na Modalidade Quality <b>não é permitido adicionar agregados</b> ao plano. Caso queira adicionar agregados, recomendamos a <a href="<?= BASE ?>planos/classico" class = "link negrito c-b sublinhado">Modalidade Clássico &#8599;</a>.
+          *Na <b>Modalidade Quality</b> não é permitido adicionar agregados ao plano. Caso necessite adicionar agregados, recomendamos a <a href="<?= BASE ?>planos/classico" class = "link negrito c-b sublinhado">Modalidade Clássico &#8599;</a>.
         </div>
       </div>
     </div>

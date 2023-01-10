@@ -307,16 +307,28 @@
       background-position: -170px;
     }
 
-    #depoimentos .owl-theme .owl-nav{
+    .depoimentos-home .owl-theme .owl-nav{
       top: 10%;
+      border: 1px solid red;
     }
 
-      #depoimentos .owl-theme .owl-nav .owl-prev{
-        left: 100px;}
-
-      #depoimentos .owl-theme .owl-nav .owl-next{
-        right: 100px;}
-
+    .depoimentos-home .owl-theme .owl-nav .owl-prev { 
+      -webkit-transition: all .25s ease; 
+      -moz-transition: all .25s ease; 
+      -o-transition: all .25s ease; 
+      -ms-transition: all .25s ease; 
+      transition: all .25s ease; 
+      left: 40% !important; 
+    }
+  
+    .depoimentos-home .owl-theme .owl-nav .owl-next { 
+      -webkit-transition: all .25s ease; 
+      -moz-transition: all .25s ease; 
+      -o-transition: all .25s ease; 
+      -ms-transition: all .25s ease; 
+      transition: all .25s ease; 
+      right: 40% !important; 
+    }
     #medicos .owl-theme .owl-nav .owl-prev{
       left: 100px;}
 

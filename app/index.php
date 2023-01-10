@@ -46,7 +46,7 @@
     <div class="container pt-3 pb-5">
       <div class="row p-5">
         <div class="col-12 col-sm-12 col-lg-5  wow animate__animated animate__fadeIn" data-wow-delay="0s">
-            <h1 class = "display-5 c-a negrito mb-4">
+            <h1 class = " c-a negrito mb-4">
               A proteção e 
               prevenção que 
               você, sua família
@@ -71,11 +71,11 @@
   </section>
 
   <!-- vantages e beneficios -->
-  <section id = "v-e-b" class = "v-e-b f-branco pt-5 pb-5">
+  <section id = "v-e-b" class = "v-e-b contrate-gatilho f-branco pt-5 pb-5">
     <div class="container pt-5 pb-5">
       <div class="row p-5">
         <div class="col-12 col-sm-12 col-lg-4 mb-5  wow animate__animated animate__fadeIn" data-wow-delay="0.5s">
-          <h1 class = "display-5 negrito c-a mb-3">
+          <h1 class = " negrito c-a mb-3">
               Por que 
               escolher o
               Sistema Prover 
@@ -164,7 +164,7 @@
   <section id = "planos-pf-home" class = " planos-pf-home f-cinza-1 pt-5 pb-5">
     <div class="container pt-5 pb-5">
       <div class="row">
-        <div class="col-12 col-sm-12 col-lg-7 esquerda">
+        <div class="col-12 col-sm-12 col-lg-8 esquerda">
             <h1 class = "display-5 c-a negrito mb-3 p-5 pb-2">
               Sistema de Saúde para 
               você e sua família.
@@ -212,9 +212,9 @@
   <!-- pessoa juridica -->
   <section id = "planos-pj-home" class = " planos-pj-home f-branco pt-5 pb-3">
     <div class="container pt-5 pb-5">
-      <div class="row ">
-        <div class="col-12 col-sm-12 col-lg-7 esquerda">
-            <h1 class = "display-5 c-a negrito mb-3">
+      <div class="row">
+        <div class="col-12 col-sm-12 col-lg-9 esquerda">
+            <h1 class = "display-5 c-a negrito mb-3 p-5 pb-2">
               Soluções para sua 
               empresa e colaboradores.
             </h1>
@@ -263,7 +263,7 @@
     <div class="container pt-5 pb-3">
       <div class="row p-5">
         <div class="col-12 col-sm-12 col-lg-5 mb-5 wow animate__animated animate__fadeIn" data-wow-delay="0.5s">
-          <h1 class = "display-5 negrito branco mb-3">
+          <h1 class = " negrito branco mb-3">
               Quem tem o 
               Sistema Prover 
               Saúde recomenda.
@@ -301,28 +301,29 @@
 
 
   <!-- contrate -->
-  <section id = "planos-pf-home" class = " planos-pf-home f-branco pt-5 pb-5">
+  <section id = "contrate-gatilho" class = "contrate-gatilho pt-5 pb-5">
     <div class="container pt-5 pb-5 mt-5 mb-5">
       <div class="row mb-3">
-        <div class="col-12 col-sm-12 col-lg-8 centro m-auto wow animate__animated animate__fadeInUp" data-wow-delay="0.5s">
+        <div class="col-12 col-sm-11 col-lg-11 centro m-auto wow animate__animated animate__fadeInUp" data-wow-delay="0.5s">
             <h1 class = "display-5 c-a negrito mb-3">
               Contrate o Sistema Prover Saúde.
             </h1>
-        </div>
-      </div>
-
-      <div class="row ">
-        <div class="col-12 col-sm-10 col-lg-5 centro m-auto pt-3 pb-3 wow animate__animated animate__fadeIn" data-wow-delay="0.5s">
             <h5 class = "cinza-9 mb-4">
               O melhor custo-benefício para sua saúde
               com o valor que cabe no seu bolso.
             </h5>
-            <p class = "mb-4">
-              <a href="<?= BASE ?>simular" class = "botao botao-a">Fazer uma simulação</a>
-
-              <a href="<?= BASE ?>falar-com-um-consultor" class = "botao botao-b">Falar com um consultor</a>
-            </p>
         </div>
+      </div>
+
+      <div class="row m-auto">
+        <div class="col-12 col-sm-0 col-lg-3"></div>
+        <div class="col-12 col-sm-10 col-md-1 col-lg-3 centro m-auto pt-3 pb-3 wow animate__animated animate__fadeIn" data-wow-delay="0.5s" >
+           <a href="<?= BASE ?>simular" class = "botao botao-a">Fazer uma simulação</a>
+          </div>
+        <div class="col-12 col-sm-10 col-md-1 col-lg-3 centro m-auto pt-3 pb-3 wow animate__animated animate__fadeIn" data-wow-delay="0.5s">
+          <a href="<?= BASE ?>falar-com-um-consultor" class = "botao botao-b">Falar com um consultor</a>
+        </div>
+        <div class="col-12 col-sm-0 col-lg-3"></div>
       </div>
     </div>
   </section>

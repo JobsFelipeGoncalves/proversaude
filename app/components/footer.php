@@ -10,16 +10,19 @@
                       Quem somos
                     </a>
                   </li>
-
                   <li class="nav-item">
                     <a class="nav-link" href="<?= BASE ?>sobre/unidades-prover-saude"> 
                       Unidades Prover Saúde
                     </a>
                   </li>
-
                   <li class="nav-item">
                     <a class="nav-link" href="<?= BASE ?>sobre/fale-conosco"> 
-                      Fale conosco
+                      Fale com a gente
+                    </a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="<?= BASE ?>falar-com-um-consultor"> 
+                      Fale com um consultor
                     </a>
                   </li>
                   <li class="nav-item">
@@ -31,6 +34,11 @@
                     <a class="nav-link" href="<?= BASE ?>#"> 
                       Área do consultor
                     </a>
+                  </li> 
+                  <li class="nav-item">
+                    <a class="nav-link" href="<?= BASE ?>#"> 
+                      Central da Marca
+                    </a>
                   </li>                 
                 </ul>
             </div>
@@ -38,6 +46,12 @@
             <div class="col-12 col-sm-6 col-lg mb-4">
                 <h5 class = "c-a negrito mb-3">Serviços</h5>
                 <ul class="nav flex-column">
+                  
+                  <li class="nav-item">
+                    <a class="nav-link" href="<?= BASE ?>simular"> 
+                      Faça uma simulação
+                    </a>
+                  </li>  
                   <li class="nav-item">
                     <a class="nav-link" href="<?= BASE ?>vantagens-e-beneficios"> 
                       Vantagens e benefícios
@@ -50,19 +64,15 @@
                   </li>
                   <li class="nav-item">
                     <a class="nav-link" href="<?= BASE ?>clube-de-vantagens"> 
-                      Clube de Vantagens
+                      Clube de vantagens
                     </a>
                   </li> 
                   <li class="nav-item">
-                    <a class="nav-link" href="<?= BASE ?>falar-com-um-consultor"> 
-                      Fale com um consultor
+                    <a class="nav-link" href="<?= BASE ?>documentos-importantes"> 
+                      Documentos importantes
                     </a>
-                  </li>
-                  <li class="nav-item">
-                    <a class="nav-link" href="<?= BASE ?>simular"> 
-                      Fazer uma simulação
-                    </a>
-                  </li>     
+                  </li> 
+                     
                 </ul>
             </div>
             <div class="col-12 col-sm-6 col-lg mb-4">
@@ -74,16 +84,21 @@
                     <li class="nav-item">
                       <a class="nav-link" href="<?= BASE ?>planos/classico">Modalidade Clássico</a>
                     </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="<?= BASE ?>dr-prover-telemedicina"> 
+                        Dr. Prover Telemedicina
+                      </a>
+                    </li>
                 </ul>
             </div>
             <div class="col-12 col-sm-6 col-lg mb-4">
                 <h5 class = "c-a negrito mb-3">Para empresas</h5>
                   <ul class="nav flex-column">
                     <li class="nav-item">
-                      <a class="nav-link" href="<?= BASE ?>planos/pj/corporate-master">Modalidade Corporate Master </a>
+                      <a class="nav-link" href="<?= BASE ?>planos/pj/corporate-master-plus">Mod.Corporate Master Plus </a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link" href="<?= BASE ?>planos/pj/quality-corporate">Modalidade Quality Corporate</a>
+                      <a class="nav-link" href="<?= BASE ?>planos/pj/quality-corporate">Mod. Quality Corporate</a>
                     </li>
                 </ul>
             </div>

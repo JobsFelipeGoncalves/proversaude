@@ -19,14 +19,21 @@
 
       <!-- menu -->
       <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
-        <ul class="navbar-nav me-auto mb-2 mb-lg-0 d-flex justify-content-center">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0 d-flex justify-content-center f-16">
+
           <li class="nav-item dropdown">
-            <!-- <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">
+            <a class="nav-link " href="<?= BASE ?>vantagens-e-beneficios">
+                Vantagens e benefícios
+            </a>
+          </li>
+
+          <!--li class="nav-item dropdown">
+            <-- <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">
               Porque o Prover Saúde
             </a> -->
-            <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="<?= BASE ?>vantagens-e-beneficios" role="button" aria-expanded="false">
+            <!-- <a class="nav-link" data-bs-toggle="dropdown" href="<?= BASE ?>vantagens-e-beneficios" role="button" aria-expanded="false">
               Vantagens e benefícios
-            </a>
+            </a> --><!-- 
             <ul class="dropdown-menu">
               <li>
                 <a class="dropdown-item" href="<?= BASE ?>vantagens-e-beneficios#consultas"> 
@@ -69,8 +76,8 @@
                   <b>Ver tudo &rarr;</b>
                 </a>
               </li>
-            </ul>
-          </li>
+            </ul> --
+          </li-->
 
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">
@@ -87,6 +94,12 @@
                 <a class="dropdown-item" href="<?= BASE ?>planos/classico"> 
                   <b> Modalidade Clássico</b><br>
                   <span class = "fonte-regular fonte-14">Adicione agregados em seu plano</span>
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-item" href="<?= BASE ?>planos/dr-prover-telemedicina"> 
+                  <b> Dr. Prover Telemedicina</b><br>
+                  <span class = "fonte-regular fonte-14">Consulte de onde estiver</span>
                 </a>
               </li>
               

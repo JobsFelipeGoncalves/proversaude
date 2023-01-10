@@ -71,7 +71,7 @@
   }
 
   body{
-    font-size: var(--f-16);
+    font-size: var(--f-14);
     font-family: var(--fonte-principal) ;
     background-color: var(--cor-cinza-200);
     overflow-x: hidden;
@@ -500,7 +500,7 @@
     /* Botão padrão */
     .botao{
       padding: 6px 12px;
-      font-size: var(--f-16);
+      font-size: var(--f-14);
       color: var(--cor-preto);
       font-weight: 400;
       line-height: 1.5;
@@ -673,13 +673,22 @@
 
 /* =======================  [ A PARTIR DAQUI UTILIZE A FORMATAÇÃO DO SEU SITE ]   =======================  */
 
+  /* para descktop */
+  .para-pc{
+    display: block;
+  }
+
+  .para-mob {
+    display: none;
+  }
+
   /* topo */
   header{
     background-color: var(--sem-cor);
   }
 
   header .navbar .navbar-brand img{
-    width: 250px;
+    width: 242px; /* 243px;*/
     padding: 10px;
   }
 
@@ -698,11 +707,11 @@
   header .navbar .navbar-toggler .material-symbols-rounded{
     font-weight: normal !important;
     color:  var(--cor-princ);
-    font-size: var(--f-18);
+    font-size: var(--f-14);
   }
 
   header .navbar .navbar-toggler .texto-menu{
-    font-size: var(--f-18);
+    font-size: var(--f-14);
     font-weight: 600;
     color:  var(--cor-princ);
   }
@@ -711,6 +720,7 @@
     padding: 10px;
     color: var(--cor-cinza-600);
     font-weight: 600;
+    font-size: var(--f-14);
   }
     header .navbar .navbar-nav .nav-item .nav-link:hover{
       color: var(--cor-princ) !important;
@@ -743,6 +753,12 @@
 
 
   /* corpo */
+  .contrate-gatilho{
+    background-image: url('../img/fundos/fundo_geral.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
 
   /* home */
   .v-e-b .v-e-b-icones{
@@ -863,6 +879,7 @@
   .mod_quality .box-consultas-exames{
     border-radius: 10px;
   }
+
 
   /* quem somos  */
   /* Unidades  */
