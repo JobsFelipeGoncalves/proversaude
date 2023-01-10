@@ -46,9 +46,9 @@
     <div class="container pt-3 pb-5">
       <div class="row p-5">
         <div class="col-12 col-sm-12 col-lg-5 wow animate__animated animate__fadeIn" data-wow-delay="0s">
-            <img src="<?= BASE_IMG ?>marcas/mod_quality.png" class = "img-fluid img-modalidade">
+            <img src="<?= BASE_IMG ?>marcas/mod_classico.png" class = "img-fluid img-modalidade mb-3">
             <h1 class = "display-5 c-a negrito mb-4">
-              Conheça as vantagens e benefícios da <span class = "c-b">modalidade Quality.</span>
+              Conheça as vantagens e benefícios da modalidade Clássico.
             </h1>
         </div>
 
@@ -177,11 +177,11 @@
         <div class="row p-5 mt-5">
           <div class="col-12 col-sm-12 col-lg-5 mb-5  wow animate__animated animate__fadeIn" data-wow-delay="0.5s">
             <h1 class = "negrito c-a mb-3">
-                Consultas por apenas R$ 60,00 reais.
+                Consultas em todas as especialidades médicas
             </h1>
               <h5 class = "cinza-9 mb-3">
                 Isso mesmo! Você e sua família podem realizar consultas em qualquer especialidade
-                pagando o valor corpaticipativo de apenas <b class = "c-azul">R$ 60,00</b>.
+                pagando o valor mínimo corpaticipativo.
               </h5>
 
           </div>
@@ -192,6 +192,7 @@
         </div>
       </div>
     </section>
+
 
     <!-- Exames -->
     <section id = "consultas" class = "f-branco pt-5 pb-5">
@@ -220,6 +221,27 @@
     </section>
 
 
+    <!-- agregados -->
+    <section id = "consultas" class = "f-branco pt-5 pb-5">
+      <div class="container pt-5 pb-5">
+        <div class="row p-5 mt-5">
+          <div class="col-12 col-sm-12 col-lg-5 mb-5  wow animate__animated animate__fadeIn" data-wow-delay="0.5s">
+            <h1 class = "negrito c-a mb-3">
+                Cuide das pessoas mais próximas a você.
+            </h1>
+              <h5 class = "cinza-9 mb-3">
+                Na modalidade Clássico, você pode adicionar até 2 agregados sem custo adicional.
+              </h5>
+
+          </div>
+          <div class="col-12 col-sm-12 col-lg-1"></div>
+
+          <div class="col-12 col-sm-12 col-lg  wow animate__animated animate__fadeIn" data-wow-delay="1s">
+          </div>
+        </div>
+      </div>
+    </section>
+
     <!-- Liberty -->
     <section id = "consultas" class = "f-c pt-5 pb-5">
       <div class="container pt-5 pb-5">
@@ -232,6 +254,10 @@
                 Pensando na família e em momentos mais difíceis, o Sistema Prover Saúde em parceria com a Liberty Seguros, o ferecem
                 para nossos beneficiários assistênciais.
               </h5>
+              
+            <p class = "f-10">
+              *Agregados não participam do programa de Seguro de Acidentes Pessoais e Assistência Funeral
+            </p>
           </div>
 
         <div class="col-12 col-sm-12 col-lg-1"></div>
@@ -242,7 +268,7 @@
                 <h5 class = "cinza-9 centro">
                     <img src="<?= BASE_IMG ?>extra/icone_seguro_c.png" class = "img-fluid v-e-b-icones mb-3" width="70px"><br>
 
-                    <b class = "c-azul">Seguro de Acidentes Pessoais</b>
+                    <b class = "c-a">Seguro de Acidentes Pessoais</b>
                     <p class = "f-14">Contemplando o Titular da modalidade</p>                      
                 </h5>
             </div>
@@ -253,7 +279,7 @@
                 <h5 class = "cinza-9 centro">
                 <img src="<?= BASE_IMG ?>extra/icone_seguro_2_c.png" class = "img-fluid mb-3 v-e-b-icones" width="70px"><br>
 
-                    <b class = "c-azul">Assistência Funeral Familiar Plus</b> 
+                    <b class = "c-a">Assistência Funeral Familiar Plus</b> 
                     <p class = "f-14">Titular, Cônjuge, Filhos e Pais Biológicos do Titular</p>                      
                 </h5>
             </div>
@@ -301,7 +327,7 @@
               Contrate o Sistema Prover Saúde para você e sua família.
             </h1>
             <h5 class = "cinza-9 mb-4">
-              O melhor custo-benefício para sua saúde<br>
+              Cuide da sua saúde e da sua família<br>
               com o valor que cabe no seu bolso.
             </h5> 
         </div>
@@ -311,32 +337,26 @@
         <div class="col-12 col-sm-10 col-lg-3"></div>
         <div class="col-12 col-sm-10 col-lg-3 m-2 p-3 v-e-b-box f-branco">
             <h5 class = "cinza-9 centro">
-            <img src="<?= BASE_IMG ?>extra/pet.png" class = "img-fluid mb-2 v-e-b-icones" width="100px"><br>
+            <img src="<?= BASE_IMG ?>extra/pet_2.png" class = "img-fluid mb-2 v-e-b-icones" width="100px"><br>
                 <p class = "f-20">Modalidade Individual</p>                      
-                <b class = "c-b f-30">R$ 74,00</b><sub class = "c-b">/mês</sub>
+                <b class = "c-a f-30">R$ 49,90</b><sub class = "c-a">/mês</sub>
                 <p class = "mb-3 mt-5">
-                  <a href="simular" class = "botao botao-a">Contratar agora</a>
+                  <a href="simular" class = "botao botao-a">Simular agora</a>
                 </p>
             </h5>
         </div>        
         <div class="col-12 col-sm-10 col-lg-3 m-2 p-3 v-e-b-box f-branco">
             <h5 class = "cinza-9 centro">
-            <img src="<?= BASE_IMG ?>extra/family.png" class = "img-fluid mb-2 v-e-b-icones" width="100px"><br>
+            <img src="<?= BASE_IMG ?>extra/family_2.png" class = "img-fluid mb-2 v-e-b-icones" width="100px"><br>
                 <p class = "f-20">Modalidade Familiar</p>                      
-                <b class = "c-b f-30">R$ 105,00</b><sub class = "c-b">/mês</sub>
+                <b class = "c-a f-30">R$ 70,00</b><sub class = "c-a">/mês</sub>
                 <p class = "mb-3 mt-5">
-                  <a href="simular" class = "botao botao-a">Contratar agora</a>
+                  <a href="simular" class = "botao botao-a">Simular agora</a>
                 </p>
             </h5>
         </div>
         <div class="col-12 col-sm-10 col-lg-3"></div>
 
-      </div>
-
-      <div class="row mt-3">
-        <div class="col-12 col-sm-12 col-lg-6 f-14 m-auto centro">
-          *Na <b>Modalidade Quality</b> não é permitido adicionar agregados ao plano. Caso necessite adicionar agregados, recomendamos a <a href="<?= BASE ?>planos/classico" class = "link negrito c-b sublinhado">Modalidade Clássico &#8599;</a>.
-        </div>
       </div>
     </div>
   </section>

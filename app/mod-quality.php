@@ -47,7 +47,7 @@
       <div class="row p-5">
         <div class="col-12 col-sm-12 col-lg-5 wow animate__animated animate__fadeIn" data-wow-delay="0s">
             <img src="<?= BASE_IMG ?>marcas/mod_quality.png" class = "img-fluid img-modalidade">
-            <h1 class = "display-5 c-a negrito mb-4">
+            <h1 class = "display-5 c-b negrito mb-4">
               Conheça as vantagens e benefícios da <span class = "c-b">modalidade Quality.</span>
             </h1>
         </div>
@@ -315,7 +315,7 @@
                 <p class = "f-20">Modalidade Individual</p>                      
                 <b class = "c-b f-30">R$ 74,00</b><sub class = "c-b">/mês</sub>
                 <p class = "mb-3 mt-5">
-                  <a href="simular" class = "botao botao-a">Contratar agora</a>
+                  <a href="simular" class = "botao botao-a">Simular agora</a>
                 </p>
             </h5>
         </div>        
@@ -325,7 +325,7 @@
                 <p class = "f-20">Modalidade Familiar</p>                      
                 <b class = "c-b f-30">R$ 105,00</b><sub class = "c-b">/mês</sub>
                 <p class = "mb-3 mt-5">
-                  <a href="simular" class = "botao botao-a">Contratar agora</a>
+                  <a href="simular" class = "botao botao-a">Simular agora</a>
                 </p>
             </h5>
         </div>
