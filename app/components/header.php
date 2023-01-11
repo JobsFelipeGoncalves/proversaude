@@ -112,9 +112,9 @@
             </a>
             <ul class="dropdown-menu">
               <li>
-                <a class="dropdown-item" href="<?= BASE ?>planos/pj/corporate-master"> 
-                  <b> Mod. Corporate Master</b> <span class="badge rounded-pill bg-primary">Ideal</span><br>
-                  <span class = "fonte-regular fonte-14">Consultas médicas por <b>R$ 35,00</b></span>
+                <a class="dropdown-item" href="<?= BASE ?>planos/corporate-master-plus"> 
+                  <b>Corporate Master Plus</b> <span class="badge rounded-pill bg-warning">Ideal</span><br>
+                  <span class = "fonte-regular fonte-14">Consultas médicas e telemedicina por <b>R$ 35,00</b></span>
                 </a>
               </li>
               <li>

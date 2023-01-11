@@ -44,13 +44,22 @@
 		//comercial
 		'/planos/pj/corporate-master-plus?(?P<ads>\S+)' => 'mod-corporate-master-plus.php',
 		'planos/pj/corporate-master-plus' => 'mod-corporate-master-plus.php',
+		'/planos/corporate-master-plus?(?P<ads>\S+)' => 'mod-corporate-master-plus.php',
+		'planos/corporate-master-plus' => 'mod-corporate-master-plus.php',
 		'/pj/corporate-master-plus?(?P<ads>\S+)' => 'mod-corporate-master-plus.php',
 		'pj/corporate-master-plus' => 'mod-corporate-master-plus.php',
 		'/corporate-master-plus?(?P<ads>\S+)' => 'mod-corporate-master-plus.php',
 		'corporate-master-plus' => 'mod-corporate-master-plus.php',
 
+		'/planos/quality-corporate?(?P<ads>\S+)' => 'mod-quality-corporate.php',
+		'planos/quality-corporate' => 'mod-quality-corporate.php',
 		'/planos/pj/quality-corporate?(?P<ads>\S+)' => 'mod-quality-corporate.php',
-		'planos/pj/quality-corporate' => 'mod-quality.php',
+		'planos/pj/quality-corporate' => 'mod-quality-corporate.php',
+		'/pj/quality-corporate?(?P<ads>\S+)' => 'mod-quality-corporate.php',
+		'pj/quality-corporate' => 'mod-quality-corporate.php',
+		'/quality-corporate?(?P<ads>\S+)' => 'mod-quality-corporate.php',
+		'quality-corporate' => 'mod-quality-corporate.php',
+		
 
 		'/planos/classico?(?P<ads>\S+)' => 'mod-classico.php',
 		'planos/classico' => 'mod-classico.php',

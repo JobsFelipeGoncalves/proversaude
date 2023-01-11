@@ -637,7 +637,7 @@
 
     .botao-c,
     .b-c{
-      background-color: var(--sem-cor); !important;
+      background-color: var(--sem-cor) !important;
       color: var(--cor-princ) !important;
       border:  3px solid !important;
       border-color: var(--cor-princ) !important;
@@ -648,7 +648,7 @@
 
     .botao-c-min,
     .b-c-min{
-      background-color: var(--sem-cor); !important;
+      background-color: var(--sem-cor) !important;
       color: var(--cor-princ) !important;
       border:  3px solid !important;
       border-color: var(--cor-princ) !important;
