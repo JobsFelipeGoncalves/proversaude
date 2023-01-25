@@ -13,8 +13,8 @@
 		'/meu-prover-saude' => 'aplicativo.php',
 
 		//ajuda
-		'/ajuda?(?P<ads>\S+)' => 'ajuda.php',
-		'/ajuda' => 'ajuda.php',
+		'/duvidas?(?P<ads>\S+)' => 'ajuda.php',
+		'/duvidas' => 'ajuda.php',
 
 		//simulacao
 		'/simular?(?P<ads>\S+)' => 'rede.php',

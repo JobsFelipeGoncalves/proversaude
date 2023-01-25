@@ -60,9 +60,20 @@
       <div class="row pb-5 pt-1">
         <div class="col-12 col-sm-12 col-lg-12 ">
 
-          <marquee width="100%" direction="right" height="auto" behavior="slide">
-            <img src="<?= BASE_IMG ?>fundos/fotos_prover_saude.jpeg" class = "img-fluid" title = "Equipe Prover Saúde"> 
-          </marquee>
+          
+            <div class="owl-carousel owl-theme">
+                <div class="item m-auto">
+                    <img src="<?= BASE_IMG ?>extra/no-image.png" class = "img-fluid ">
+                </div>
+                <div class="item m-auto">
+                    <img src="<?= BASE_IMG ?>extra/no-image.png" class = "img-fluid ">
+                </div>
+            </div>
+
+          <div class = " owl-theme">
+            <div class="owl-controls"><div class="custom-nav owl-nav"></div></div>
+          </div>
+
             
         </div>
       </div>
@@ -132,15 +143,54 @@
   </section>
 
 
-
-
-
-  <!-- unidades -->
+  <!-- unidades assistenciais -->
   <section id = "unidades-prover-saude" class = "unidades-prover-saude f-branco pt-1 pb-5">
-    <div class="container pt-5 pb-5">
+    <div class="container mt-5 pt-5 pb-5">
+      <div class="row ">
+          <div class="col-12 col-sm-12 col-lg-9  mb-3 wow animate__animated animate__fadeInUp" data-wow-delay="0.5s">
+            <h1 class = "display-5 c-a negrito mb-4 ">Nossas unidades assistênciais</h1>
+            <h5 class = "cinza-9 mb-4">
+              As unidades assistênciais Prover Saúde com atendimentos médicos e exames de diagnóstivo por imagem.
+            </h5>
+          </div>
+        </div>
+      <div class="row p-5">
+        <div class="col-12 col-sm-12 col-lg-12 f-18 wow animate__animated animate__fadeIn" data-wow-delay="1s">
+          <div class="row cinza-7 f-p-5">
+            <div class="col-12 col-sm-6 col-lg-6 mb-3 ">
+              <div class="card card-unidades">
+                <img src="<?= BASE_IMG ?>extra/no-image.png" class="card-img-top" alt="...">
+                <div class="card-body">
+                  <h5 class="card-title c-a negrito f-18">Unidade Assistenciais Prover Saúde em Ivinhema</h5>
+                  <p class="card-text f-16">Avenida Brasil, Nº 660, Ivinhema</p>
+                  <a href="<?= BASE ?>sobre/unidades/unidade-assistencial-prover-saude-ivinhema" class="botao b-a-min">Conhecer unidade</a>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-12 col-sm-6 col-lg-6 mb-3 ">
+              <div class="card card-unidades">
+                <img src="<?= BASE_IMG ?>extra/no-image.png" class="card-img-top" alt="...">
+                <div class="card-body">
+                  <h5 class="card-title c-a negrito f-18">Unidade Assistenciais Prover Saúde em Nova Andradina</h5>
+                  <p class="card-text f-16">Walter Hubacher, 1339 - Centro</p>
+                  <a href="<?= BASE ?>sobre/unidades/unidade-assistencial-prover-saude-nova-andradina" class="botao b-a-min">Conhecer unidade</a>
+                </div>
+              </div>
+            </div>
+
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- unidades cormerciais -->
+  <section id = "unidades-prover-saude-c" class = "unidades-prover-saude f-branco pt-1 pb-5">
+    <div class="container pt-0 pb-5">
       <div class="row ">
           <div class="col-12 col-sm-12 col-lg-7  mb-3 wow animate__animated animate__fadeInUp" data-wow-delay="0.5s">
-            <h1 class = "display-5 c-a negrito mb-4 ">Nossas unidades</h1>
+            <h1 class = "display-5 c-a negrito mb-4 ">Nossas unidades comerciais</h1>
             <h5 class = "cinza-9 mb-4">
               Além de estarmos presente em mais de 45 municípios, conheça algumas de nossas unidades.
             </h5>
@@ -149,12 +199,14 @@
       <div class="row p-5">
         <div class="col-12 col-sm-12 col-lg-12 f-18 wow animate__animated animate__fadeIn" data-wow-delay="1s">
           <div class="row cinza-7 f-p-5">
+
+
             <div class="col-12 col-sm-6 col-lg-4 mb-3 ">
               <div class="card card-unidades">
                 <img src="<?= BASE_IMG ?>extra/no-image.png" class="card-img-top" alt="...">
                 <div class="card-body">
-                  <h5 class="card-title c-a negrito">Unidade Assistenciais Prover Saúde em Ivinhema</h5>
-                  <p class="card-text">Avenida Brasil, Nº 660, Ivinhema</p>
+                  <h5 class="card-title c-a negrito fonte-18">Unidade Prover Saúde em Campo Grande</h5>
+                  <p class="card-text f-16">Rua da Paz, 483 - Jardim dos Estados</p>
                   <a href="#" class="botao b-a-min">Como chegar</a>
                   <a href="#" class="botao b-b-min">Ligar</a>
                 </div>
@@ -165,8 +217,8 @@
               <div class="card card-unidades">
                 <img src="<?= BASE_IMG ?>extra/no-image.png" class="card-img-top" alt="...">
                 <div class="card-body">
-                  <h5 class="card-title c-a negrito">Unidade Assistenciais Prover Saúde em Nova Andradina</h5>
-                  <p class="card-text">Walter Hubacher, 1339 - Centro</p>
+                  <h5 class="card-title c-a negrito f-18">Unidade Prover Saúde em Dourados</h5>
+                  <p class="card-text f-16">Avenida Joaquim Teixeira Alves, N° 2173 - Sl 01 - Centro</p>
                   <a href="#" class="botao b-a-min">Como chegar</a>
                   <a href="#" class="botao b-b-min">Ligar</a>
                 </div>
@@ -177,32 +229,8 @@
               <div class="card card-unidades">
                 <img src="<?= BASE_IMG ?>extra/no-image.png" class="card-img-top" alt="...">
                 <div class="card-body">
-                  <h5 class="card-title c-a negrito">Unidade Prover Saúde em Campo Grande</h5>
-                  <p class="card-text">Rua da Paz, 483 - Jardim dos Estados</p>
-                  <a href="#" class="botao b-a-min">Como chegar</a>
-                  <a href="#" class="botao b-b-min">Ligar</a>
-                </div>
-              </div>
-            </div>
-
-            <div class="col-12 col-sm-6 col-lg-4 mb-3 ">
-              <div class="card card-unidades">
-                <img src="<?= BASE_IMG ?>extra/no-image.png" class="card-img-top" alt="...">
-                <div class="card-body">
-                  <h5 class="card-title c-a negrito">Unidade Prover Saúde em Dourados</h5>
-                  <p class="card-text">Avenida Joaquim Teixeira Alves, N° 2173 - Sl 01 - Centro</p>
-                  <a href="#" class="botao b-a-min">Como chegar</a>
-                  <a href="#" class="botao b-b-min">Ligar</a>
-                </div>
-              </div>
-            </div>
-
-            <div class="col-12 col-sm-6 col-lg-4 mb-3 ">
-              <div class="card card-unidades">
-                <img src="<?= BASE_IMG ?>extra/no-image.png" class="card-img-top" alt="...">
-                <div class="card-body">
-                  <h5 class="card-title c-a negrito">Unidade Prover Saúde em Aquidauana</h5>
-                  <p class="card-text">Rua Manoel Antônio Paes de Barros, 509 - Centro</p>
+                  <h5 class="card-title c-a negrito f-18">Unidade Prover Saúde em Aquidauana</h5>
+                  <p class="card-text f-16">Rua Manoel Antônio Paes de Barros, 509 - Centro</p>
                   <a href="#" class="botao b-a-min">Como chegar</a>
                   <a href="#" class="botao b-b-min">Ligar</a>
                 </div>

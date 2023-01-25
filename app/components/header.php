@@ -114,13 +114,13 @@
               <li>
                 <a class="dropdown-item" href="<?= BASE ?>planos/corporate-master-plus"> 
                   <b>Corporate Master Plus</b> <span class="badge rounded-pill bg-warning">Ideal</span><br>
-                  <span class = "fonte-regular fonte-14">Consultas médicas e telemedicina por <b>R$ 35,00</b></span>
+                  <span class = "fonte-regular fonte-14">Consultas por R$ 35,00 + Telemedicina</span>
                 </a>
               </li>
               <li>
                 <a class="dropdown-item" href="<?= BASE ?>planos/pj/quality-corporate"> 
                   <b> Mod. Quality Corporate</b><br>
-                  <span class = "fonte-regular fonte-14">Consultas médicas por <b>R$ 60,00</b></span>
+                  <span class = "fonte-regular fonte-14">Consultas por R$ 60,00 + Telemedicina</span>
                 </a>
               </li>
             </ul>
@@ -165,13 +165,13 @@
                 </a>
               </li>
               <li>
-                <a class="dropdown-item" href="<?= BASE ?>sobre/unidades-prover-saude"> 
+                <a class="dropdown-item" href="<?= BASE ?>sobre/quem-somos#unidades-prover-saude"> 
                   <b>Unidades Prover Saúde</b><br>
                   <span class = "fonte-regular fonte-14">Conheça nossas unidades</span>
                 </a>
               </li>
               <li>
-                <a class="dropdown-item" href="<?= BASE ?>sobre/fale-conosco"> 
+                <a class="dropdown-item" href="<?= BASE ?>sobre/quem-somos#fale-conosco"> 
                   <b> Fale conosco</b><br>
                   <span class = "fonte-regular fonte-14">Precisa falar com a gente?</span>
                 </a>

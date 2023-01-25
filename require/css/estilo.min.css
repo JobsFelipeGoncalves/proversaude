@@ -814,6 +814,74 @@
   }
 
   /* depoimentos quem somos */
+  #fotos_equipe .owl-carousel .item img{
+    width: 67% !important;
+    margin: auto !important;
+  }
+
+
+  #fotos_equipe .owl-theme .owl-nav .owl-prev, 
+  #fotos_equipe .owl-theme .owl-nav .owl-next { 
+    position: absolute; 
+    height: auto; 
+    color: inherit; 
+    background: transparent; 
+    padding: 5px; 
+    border-radius: 100px;   
+    z-index: 1;
+    margin-top:  10%;
+  }
+
+  #fotos_equipe .owl-theme .owl-nav button:focus, 
+  #fotos_equipe .owl-theme .owl-nav button:focus{ 
+    outline: thin dotted !important; 
+    outline: 0px auto -webkit-focus-ring-color; 
+    outline-offset: 0px !important; 
+  }
+
+  #fotos_equipe .owl-theme .owl-nav .owl-prev { 
+    -webkit-transition: all .25s ease; 
+    -moz-transition: all .25s ease; 
+    -o-transition: all .25s ease; 
+    -ms-transition: all .25s ease; 
+    transition: all .25s ease; 
+    left: 40% !important; 
+  }
+
+  #fotos_equipe .owl-theme .owl-nav .owl-next { 
+    -webkit-transition: all .25s ease; 
+    -moz-transition: all .25s ease; 
+    -o-transition: all .25s ease; 
+    -ms-transition: all .25s ease; 
+    transition: all .25s ease; 
+    right: 40% !important; 
+  }
+
+  #fotos_equipe .owl-dots{
+    display: none;
+  }
+
+  /* planos  */
+  .planos-pf-home .planos-pf-home-img{
+    width: 150px !important;
+  }
+
+  /* modalidades */
+  .img-modalidade{
+    width: 180px;
+  }
+
+  .v-e-b-box{
+    border: 2px solid var(--cor-princ); 
+    border-radius: 5px;
+  }
+
+  .mod_quality .box-consultas-exames{
+    border-radius: 10px;
+  }
+
+
+  /* quem somos  */
   .depoimentos .owl-carousel .item img{
     width: 67% !important;
     margin: auto !important;
@@ -860,28 +928,6 @@
   .depoimentos .owl-dots{
     display: none;
   }
-
-  /* planos  */
-  .planos-pf-home .planos-pf-home-img{
-    width: 150px !important;
-  }
-
-  /* modalidades */
-  .img-modalidade{
-    width: 180px;
-  }
-
-  .v-e-b-box{
-    border: 2px solid var(--cor-princ); 
-    border-radius: 5px;
-  }
-
-  .mod_quality .box-consultas-exames{
-    border-radius: 10px;
-  }
-
-
-  /* quem somos  */
   /* Unidades  */
   .card-unidades{
     padding-bottom: 20px;
